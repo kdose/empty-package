@@ -1,0 +1,6 @@
+{
+    "name": "kdo/empty-package",
+    "description": "Placeholder to save the packagist vendor.",
+    "require": {
+    }
+}
